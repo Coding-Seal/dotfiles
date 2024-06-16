@@ -12,5 +12,4 @@ alias vi='nvim'
 
 # PATH
 export PATH=$PATH:/usr/local/go/bin
-export PATH=$PATH:/opt/gradle/gradle-8.3/bin
 export PATH="$PATH:$HOME/.local/bin"
